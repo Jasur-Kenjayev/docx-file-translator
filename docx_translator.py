@@ -36,7 +36,7 @@ baner = f"""\033[33m
                       ᴰᵉᵛᵉˡᵒᵖᵉʳ ᵀᵉˡᵉᵍʳᵃᵐ: @ᴾʸᵗʰᵒⁿ_ᴷᵒᵈᵉʳˢ
                             ᵖʰᵒⁿᵉ: +⁹⁹⁸³³³⁰⁰⁹⁸⁸⁸
                       \033[32mhttps://github.com/Jasur-Kenjayev
-            {color1}[\033[31m#\033[0m\033[33m]\033[31mProgram information: This program translates word file
+            {color1}[\033[31m#\033[0m\033[33m]\033[31mProgram information: This program translates word file{color1}[\033[31m#\033[0m\033[33m]
 """
 print(baner)
 
